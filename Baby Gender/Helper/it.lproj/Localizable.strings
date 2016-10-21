@@ -1,0 +1,85 @@
+
+/* Main Menu */
+"firstMain" = "Metodo \nCinese";
+"secondMain" = "Metodo del \naggiornamento \nSanguigno";
+"more_methods" = "Altri Metodi";
+"app_name" = "Previsione Sesso Neonato";
+"text_title" = "Previsione \nSesso \nNeonato";
+/* General */
+"more_apps" = "Più applicazioni";
+"begin" = "Inizia la Predizione";
+"buttonInfoText" = "Esempi";
+"result_boy" = "Maschio";
+"result_girl" = "Femmina";
+"more_methods_toast" = "Presto";
+"what_is_it" = "Cos\'è?";
+/* Overflow Menu Items */
+
+"menu_item_2" = "Su questo Test";
+"menu_item_3" = "Invia Feedback";
+"menu_item_1" = "Votaci 5 Stelle";
+"menu_item_4" = "Condividi";
+"menu_item_5" = "Seguici su Twitter";
+"menu_item_6" = "+1 su Google+";
+"menu_item_7" = "Metti un Mi Piace su Facebook";
+"menu_item_8" = "Metti un Mi Piace Su Vkontakte";
+/* Rating Dialog */
+"thankyourate" = "Grazie per averci votato";
+"thank_one" = "5 Stelle";
+"thank_three" = "La prossima volta";
+/* Question Dialog */
+"question" = "E\' giusta la predizione\'";
+"yes" = "Si";
+"no" = "No";
+"dontknow" = "Non so";
+"try_again" = "Imposta altre date";
+"try_again_blood" = "Imposta altri gruppi";
+/* Sure Dialog */
+"text_sure" = "Accertati che le date inserite siano corrette!";
+"title_sure" = "Sii preciso";
+/* Subscribe */
+/* Add to other !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+"sub_title" = "Consigli per la gravidanza";
+"sub_dialog_title" = "Iscriviti per avere le news";
+"edit_mail_hint" = "Inserisci il tuo indirizzo email";
+"edit_age_hint" = "Inserisci il tuo indirizzo età";
+"sub_dialog_button" = "Iscriviti";
+
+/* Chinese Texts */
+"mom_age" = "La tua età al concepimento";
+"mom_month" = "Mese di concepimento del bambino";
+"baby_conception" = "Mese di concepimento";
+"chinese_infoText1" = "E\' la tua età quando il bambino è stato concepito, per esempio, se il mese di concepimento del bambino è Maggio tu devi inserire l\'età che avevi a Maggio.\'";
+"chinese_infoText2" = "Inserisci il mese di concepimento del bambino";
+/* Blood Type Texts */
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Del padre età al concepimento";
+"momBloodText" = "Della madre età al concepimento";
+"blood_about1" = "L\'accuratezza è del 50 per cento\'";
+/* Share Texts */
+"share_text" = "#BabyGenderPrediction Il risultato della mia predizione è";
+"share_title" = "Il risultato della mia predizione è";
+/* Progrees Text */
+"progress_text" = "Predizione";
+
+"china_about"= "Il Calendario Cinese dei Sessi, anche conosciuto come il Calendario Cinese delle Nascite, è considerato il più antico metodo per predire il sesso di un bambino non ancora nato. E\' anche uno dei più semplici, dove le uniche informazioni richieste sono l\'età della madre al momento del concepimento ed il mese di concepimento. Ai più razionali questo metodo potrà sembrare assurdo, ma la domanda è: comprendiamo davvero i meccanismi nascosti della natura e dell\'universo?";
+
+"china_about1"= "Seguendo le nostre istruzioni potrete raggiungere un livello di accuratezza del 75% (es. avrete tre possibilità su 4 di avere il risultato corretto). Questa cifra non è vicina al 100%, ma è basata su un metodo sistematico di ricerca invece che su leggende o speculazioni. Il nostro obiettivo è di migliorare il calendario, principalmente raccogliendo e analizzando dati da tutto il mondo. Puoi aiutarci nel nostro scopo provando il calendario su nascite avute nella tua famiglia o tra i tuoi amici, prendendo così parte alla nostra ricerca.";
+
+"jan" = "Gennaio";
+"feb" = "febbraio";
+"mar" = "marzo";
+"apr" = "aprile";
+"may" = "maggio";
+"jun" = "giugno";
+"jul" = "luglio";
+"aug" = "agosto";
+"sep" = "settembre";
+"okt" = "ottobre";
+"nov" = "novembre";
+"des" = "dicembre";
+
+"" = "";

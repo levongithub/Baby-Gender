@@ -1,0 +1,90 @@
+/* Main Menu */
+"firstMain" = "中国性别日历";
+"secondMain" = "现代化血型";
+"more_methods" = "小贴士";
+"app_name" = "婴儿性别预测";
+"text_title" = "婴儿\n性别\n预测";
+/* Planning */
+"this_is" = "宝贝计划";
+"boy_or_girl" = " 选择婴儿性别";
+/* Japanese Texts */
+"thirdPrediction" = "日本人的方法";
+/* General */
+"more_apps" = "更多应用";
+"begin" = "开始预测";
+"buttonInfoText" = "例子";
+"result_boy" = "男孩";
+"result_girl" = "女孩";
+"more_methods_toast" = "即将揭晓";
+"what_is_it" = "它是什么？";
+/* Overflow Menu Items */
+"menu_item_2" = "关于本测试";
+"menu_item_3" = "意见反馈";
+"menu_item_1" = "好评鼓励";
+"menu_item_4" = "分享";
+"menu_item_5" = "twitter上加关注";
+"menu_item_6" = "google+上加关注";
+"menu_item_7" = "Facebook点赞";
+"menu_item_8" = "Vkontakte点赞";
+/* Rating Dialog */
+"thankyourate" = "感谢您的评价";
+"thank_one" = "5星";
+"thank_three" = "下次";
+/* Question Dialog */
+"question" = "预测准么？";
+"yes" = "准";
+"no" = "不准";
+"dontknow" = "不知道";
+"try_again" = "设置其他数值";
+"try_again_blood" = "选择其他血型";
+/* Sure Dialog */
+"text_sure" = "您输入的日期是否正确";
+"title_sure" = "请注意";
+/* Subscribe */
+/* Add to other !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+"sub_title" = "怀孕小贴士";
+"sub_dialog_title" = "订阅最新消息";
+"edit_mail_hint" = "请输入您的邮箱";
+"edit_age_hint" = "请输入您的年龄";
+"sub_dialog_button" = "订阅";
+/* Chinese Texts */
+"mom_age" = "阳历 年龄";
+"mom_month" = "首先怀孕月份";
+"baby_conception" = "怀孕月份";
+"chinese_infoText1" = "就是当你怀上小孩时你的年龄。比如，你在5月份怀上了小孩，那就是5月时你的年龄。";
+"chinese_infoText2" = "选择你怀孕月份就可以了";
+"china_about" = "中国的性别日历，也被称为婴儿性别走势图，被认为是最古老的用于预测胎儿性别的方法之一。同时这种方法也是最简单的一种，仅需要妈妈怀孕时的年龄以及怀孕的月份两个数据。在一些理性的人看来，这种方法有些荒谬，但是我们真的知晓大自然和宇宙运行的奥妙么？ ";
+"china_about1" = "遵从指导的话，目前准确率大约为75%（也就是3/4的机会可以得到你想要的性别）准确率虽然无法接近100%，但是绝对是基于系统的研究而不是传言和猜测。我们的目标是通过收集和分析来自全球的预测数据来提高准确率。你也可以通过亲朋好友中的性别测试来为这一目标贡献你自己的力量。";
+/* Blood Type Texts */
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "选择爸爸阳历 年龄";
+"momBloodText" = "选择妈妈阳历 年龄";
+"blood_about" = "这种方法根据父母亲的血型来预测婴儿的性别";
+"blood_about1" = "准确率大约50%";
+/* Share Texts */
+"share_text" = "#婴儿性别 我的baby性别预测结果是  ";
+"share_title" = "我的baby性别预测结果是  ";
+/* Progrees Text */
+"progress_text" = "预测";
+/* Japanese Texts */
+"mom_born_month" = "选择妈妈出生月份";
+"dad_born_month" = "选择爸爸出生月份";
+"baby_conc_month" = "怀孕月份";
+
+"jan" = "一月";
+"feb" = "二月";
+"mar" = "三月";
+"apr" = "四月";
+"may" = "五月";
+"jun" = "六月";
+"jul" = "七月";
+"aug" = "八月";
+"sep" = "九月";
+"okt" = "十月";
+"nov" = "十一月";
+"des" = "十二月";
+
+"" = "";

@@ -1,0 +1,116 @@
+
+/* Main Menu */
+
+"firstMain" = "Chinese \nMethod";
+"secondMain" = "Blood \nUpdate \nMethod";
+"more_methods" = "More Apps";
+"nutrition_and_food" = "Nutrition & Food";
+"app_name" = "Baby Gender Prediction";
+
+/* Planning */
+
+"mom_age" = "Enter mom age";
+"boy_or_girl" = "Select Baby Gender";
+/* Japanese Texts */
+"mom_born_month" = "Select Mom Born Month";
+"dad_born_month" = "Select Dad Born Month";
+"thirdPrediction" = "Japanese Method";
+
+/* General */
+
+"more_apps" = "More Apps";
+"begin" = "Start Prediction";
+"buttonInfoText" = "Examples";
+"result_boy" = "Boy";
+"result_girl" = "Girl";
+"more_methods_toast" = "Soon";
+"what_is_it" = "What is it?";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "About Test";
+"menu_item_3" = "Send Feedback";
+"menu_item_1" = "Give us 5 Stars";
+"menu_item_4" = "Share";
+"menu_item_7" = "Like us on Facebook";
+
+/* Rating Dialog */
+
+"thankyourate" = "Thank you for rating us";
+"thank_one" = "5 stars";
+"thank_three" = "Next Time";
+
+/* Question Dialog */
+
+"question" = "Is prediction right";
+"yes" = "Yes";
+"no" = "No";
+"dontknow" = "Don\'t know";
+"try_again" = "Set other dates";
+"try_again_blood" = "Set other types";
+
+/* Sure Dialog */
+
+"text_sure" = "Make sure that entered dates are right!";
+"title_sure" = "Be attentive";
+
+/* Subscribe */
+/* Add to other !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+"sub_title" = "Tips for Pregnant";
+"sub_dialog_title" = "Subscribe to get news";
+"edit_mail_hint" = "Enter your mail here";
+"edit_age_hint" = "Enter your age here";
+"sub_dialog_button" = "Subscribe";
+
+/* Chinese Texts */
+
+"mom_age1" = "Your age at conception";
+"mom_month" = "Baby conception month";
+"baby_conception" = "Conception Month";
+"chinese_infoText1" = "It is age when baby was concept for example , baby concetion month is may and you must enter your age at may.";
+"chinese_infoText2" = "Enter baby conception month";
+"china_about" = "The Chinese Gender Calendar, also known as the Chinese Birth Gender Chart, is considered one of the oldest methods for predicting the gender of an unborn baby. It is also one of the simplest, where the only necessary information is the mother\'s age at conception along with month of conception.To the rationally minded, such predictions may seem absurd, but the question is: do we really understand the subtle operations of nature and the universe? ";
+
+"china_about1" = "By following our instructions you will currently achieve an accuracy of about 75% (i.e. the chance is 3 out of 4 that you will get the gender you want). The figure is nowhere near 100%, but is based on systematic research rather than rumors and speculations. Our objective is to improve the calendar, mainly by collecting and analyzing prediction data from around the world. You can join our effort by testing the calendar on known births in your family and among friends and taking part in our survey.";
+
+/* Blood Type Texts */
+
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Enter Dad Age at conception";
+"momBloodText" = "Enter Mom Age at conception";
+"blood_about" = "This method predict baby gender by parent\'s blood type";
+"blood_about1" = "Accuracy about 50 percents";
+
+/* Share Texts */
+
+"share_text" = " My prediction result is  ";
+
+
+/* Progrees Text */
+"progress_text" = "Prediction";
+
+/* Japanese Texts */
+
+"mom_born_month1" = "Enter Mom Born Month";
+"dad_born_month1" = "Enter Dad Born Month";
+"baby_conc_month" = "Baby conception month";
+
+"jan" = "January";
+"feb" = "February";
+"mar" = "March";
+"apr" = "April";
+"may" = "May";
+"jun" = "June";
+"jul" = "July";
+"aug" = "August";
+"sep" = "September";
+"okt" = "October";
+"nov" = "November";
+"des" = "December";
+
+"" = "";
+

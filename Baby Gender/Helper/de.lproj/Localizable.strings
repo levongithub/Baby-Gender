@@ -1,0 +1,94 @@
+
+/* Main Menu */
+
+"firstMain" = "Chinesischen \nMethode";
+"secondMain" = "Die Blut \naktualisieren";
+"more_methods" = "Andere Methoden";
+
+/* General */
+"more_apps" = "Meer Apps";
+"app_name" = "Geschlechtsbestimmung des Baby";
+"what_is_it" = "Was ist das für ein Test?";
+"begin" = "Bestimmen";
+"buttonInfoText" = "Beispiele";
+"more_methods_toast" = "Bald";
+"result_boy" = "Junge";
+"result_girl" = "Mädchen";
+
+/* Subscribe */
+
+"sub_title" = "der Rat für Schwangere";
+"sub_dialog_title" = "bekommen der Rat";
+"edit_mail_hint" = "Ihre E-Mail";
+"edit_age_hint" = "Ihre Alter(fakultativ)";
+"sub_dialog_button" = "Zeichnung";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "Über den Test";
+"menu_item_3" = "Feedback geben";
+"menu_item_1" = "Bewerten  Sie uns 5";
+"menu_item_4" = "Teilen";
+
+/* Sure Dialog */
+
+"text_sure" = "Überprüfen Sie dass die eingegeben Daten richtig sind";
+"title_sure" = "Seien sie aufmerksahm?";
+
+/* Question Dialog */
+
+"question" = "Ist die Bestimmung Richtig ?";
+"yes" = "Ja";
+"no" = "Nein";
+"dontknow" = "Weiss noch nicht";
+"try_again" = "Andere Daten geben ";
+"try_again_blood" = "Angere Blutgruppen geben";
+
+/* Chinese Texts */
+"mom_age" = "Ihr Alter während dem konzipieren";
+"mom_month" = "Monat des konzipierens des Kindes";
+"baby_conception" = " Monat der Konzipiration";
+"chinese_infoText1" = "Sagen wir mal,Sie haben im April Konzipiert,Sie müssen ihr Alter eingeben,das Sie im April hatten.";
+"chinese_infoText2" = "Geben Sie den Monat ein,in dem das Kind konzipiert wurde";
+"china_about1" = "Das Programm zählt Ihr Chinesisches Alter ,(da es bei den Chinesen andere Alterbestimmungen gibt) den Monat der Konzpirietion des Kindes und nachher bestimmt es das Geschlecht.";
+
+"china_about" = "Sie können das Geschlecht Ihres Kindes erfahren.Alles,was man dafür braucht ist der konkrete Monat der Konzipieration und darin ist liegt das Problem. Man sagt,dass diesem Chinesischen Kalender schon über 700 Jahre ist. Seine Genauhigkeit liegt bei 80 % .Das Original wird im Wissenschaftsuniversitet Pekins aufbewahrt.Nur wenige Frauen wissen den richtigen Tag der Ovulation,insbesondere die,bei denen der Minstrualzyklus unregelmässig ist.Sein Sie aufmerksahm, versuchen SIe sich an  das genaue Datum zu erinerrn,den das beeinflusst das Rezultat.";
+
+/* Rating Dialog */
+"thankyourate" = "Danke,dass Sie uns berwertet  haben 5 sterne";
+"thank_one" = "5 sterne";
+"thank_three" = "Ein anderes mal";
+
+/* Blood Type Texts */
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = " Alter während dem konzipieren Mutter";
+"momBloodText" = " Alter während dem konzipieren Vaters";
+"blood_about1" = "Genauigkeit 50%.";
+"blood_about" = "Die Methode bestimmt das Geschlecht des Kindes mit hilfe der Blutgruppen der Eltern.";
+
+/* Share Text */
+"share_text" = "#GeschlechtsbestimmungdesBaby. Mein Resultat ";
+"share_title" = "Mein Resultat";
+
+/* Progrees Text */
+"progress_text" = "Bestimmung";
+
+"jan" = "Januar";
+"feb" = "Februar";
+"mar" = "März";
+"apr" = "April";
+"may" = "Mai";
+"jun" = "Juni";
+"jul" = "Juli";
+"aug" = "August";
+"sep" = "September";
+"okt" = "Oktober";
+"nov" = "November";
+"des" = "Dezember";
+
+"" = "";
+
+

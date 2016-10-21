@@ -1,0 +1,95 @@
+
+/* Main Menu */
+
+"firstMain" = "Çin \nYöntemi";
+"secondMain" = "Kan \ngrubu \ngöre";
+"more_methods" = "Diğer yöntemler";
+
+/* Subscribe */
+"sub_title" = "Hamileler için ipuçları";
+"sub_dialog_title" = "Tavsiyeler almak";
+"edit_mail_hint" = "E-Posta Adresiniz";
+"edit_age_hint" = "Sizin doğum tarihiniz";
+"sub_dialog_button" = "Abone ol";
+
+/* General */
+"more_apps" = "Diðer uygulama";
+"app_name" = "Çocuğun Cinsiyeti Belirlenmesi";
+"what_is_it" = "Bu testi nedir?";
+"begin" = "Belirleyin";
+"buttonInfoText" = "Örnekler";
+"more_methods_toast" = "Yakında";
+"result_boy" = "Erkek";
+"result_girl" = "Kız";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "Test hakkında";
+"menu_item_3" = "Yorum Gönder";
+"menu_item_1" = "Bizi puanla 5";
+"menu_item_4" = "Paylaş";
+"menu_item_5" = "Twitter";
+"menu_item_6" = "Google+";
+"menu_item_7" = "Facebook";
+"menu_item_8" = "Вконтакте";
+
+/* Sure Dialog */
+
+"text_sure" = "Doğru tarih girdiğinizden emin olun!";
+"title_sure" = "Dooru yazdığınızi emin olun";
+
+/* Question Dialog */
+
+"question" = "Doğru belirlenmesi?";
+"yes" = "Evet";
+"no" = "Hayır";
+"dontknow" = "Daha bilmiyorum";
+"try_again" = "Diğer tarihleri ver";
+"try_again_blood" = "Diğer kan grubu ver";
+
+/* Chinese Texts */
+"mom_age" = "Senin yaşın hamile kaldığın ne zaman";
+"mom_month" = "Hangi ayda siz hamile kaldınız";
+"baby_conception" = "Hangi ayda siz hamile kaldınız";
+"chinese_infoText1" = "En çocuk Nisan ayında tasarlandı diyelim, sen Nisan ayında vardı kaç yıl girmek zorunda";
+"chinese_infoText2" = "Çocuğuna hamile edildiği ayı giriniz";
+"china_about1" = "Program Çinli yaş (Çin yaş diğer ölçümler gibi) çocuğun anlayışı ve sonra opredilili zemin, ay hesaplar. ";
+"china_about" = "Bu Çin takvimi, bu zaten fazla 700 years.I doğruluğu 80 daha fazla Its orijinal doğmamış bebeğin cinsiyeti öğrenebilirsiniz Pekine.Vy Bilim Enstitüsü\'nde saklanan olduğu söyleniyor.\nBütün gereken, - bir anlayışı tam ay (bu ana sorun) bilmek. Birkaç kadın, özellikle bir adet döngüsünü olanlar düzenli değildir, yumurtlama tam gün biliyorum. Dikkatli olun, sonucu etkileyecek çünkü kesin tarihini hatırlamaya çalışın.";
+
+/* Rating Dialog */
+"thankyourate" = "Teşekkür ederim oy vermeniz icin";
+"thank_one" = "5 yıldız";
+"thank_three" = "Diğer zamanlarda";
+
+/* Blood Type Texts */
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Annenin kan grubu";
+"momBloodText" = "Babanin kan grubu";
+"blood_about1" = "Yüzde 50 doğruluk";
+"blood_about" = "Yöntem Hacıveliler Kan Grubu Tarafindan çocuğun cinsiyetini belirlediğini";
+
+/* Share Text */
+"share_text" = "#ÇocuğunCinsiyetiBelirlenmesi. Nenim sonuçgun ";
+"share_title" = "Nenim sonuçgun ";
+
+/* Progrees Text */
+"progress_text" = "Hesaplama";
+
+"jan" = "Ocak";
+"feb" = "Şubat";
+"mar" = "Mart";
+"apr" = "Nisan";
+"may" = "Mayıs";
+"jun" = "Haziran";
+"jul" = "Temmuz";
+"aug" = "Ağustos";
+"sep" = "Eylül";
+"okt" = "Ekim";
+"nov" = "Kasım";
+"des" = "Aralık";
+
+"" = "";
+

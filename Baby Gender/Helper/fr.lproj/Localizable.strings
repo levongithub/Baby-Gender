@@ -1,0 +1,92 @@
+
+/* Main Menu */
+
+"firstMain" = "Méthode \nChinoise";
+"secondMain" = "Par le \nRéviser \nSanguin";
+"more_methods" = "D\'autres Méthodes";
+
+/* Subscribe */
+
+"sub_title" = "Conseils pour les enceintes";
+"sub_dialog_title" = "Recevez des conseils";
+"edit_mail_hint" = "votre email";
+"edit_age_hint" = "votre âge(optionnel)";
+"sub_dialog_button" = "Souscrire";
+
+/* General */
+"more_apps" = "Plus d\'Apps";
+"app_name" = "La calcul du sexe de l\'enfant";
+"what_is_it" = "Quel est ce test?";
+"begin" = "Déterminer";
+"buttonInfoText" = "Exemples";
+"more_methods_toast" = "Bientôt";
+"result_boy" = "Garçon";
+"result_girl" = "Fille";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "A propos du test";
+"menu_item_3" = "Envoyer des commentaires";
+"menu_item_1" = "Nous évaluer 5";
+"menu_item_4" = "Partager";
+
+/* Sure Dialog */
+
+"text_sure" = "Assurez que la date fixé est correcte.";
+"title_sure" = "Faire attention ";
+
+/* Question Dialog */
+
+"question" = "Est-ce le calcul  exact?";
+"yes" = "Oui";
+"no" = "Non";
+"dontknow" = "Je sais pas ";
+"try_again" = "Donner d\'autres dates";
+"try_again_blood" = "Donner des autres groupes de sanguins";
+
+/* Chinese Texts */
+"mom_age" = "Votre âge au moment de la conception";
+"mom_month" = "Mois de la conception";
+"baby_conception" = "Mois de la conception";
+"chinese_infoText1" = "Supposons, l\'enfant a été conçu en avril, vous  ecrivez de quelle âge,  vous  étiez en avril.";
+"chinese_infoText2" = "Entrez le mois de la conception";
+"china_about1" = " Le programme va calculer votre âge chinois (que les Chinois ont d\'autres mesures d\'âge), le mois de la conception de l\'enfant et de déterminer ensuite la sex. ";
+
+"china_about" = "Le calendrier chinois existe plus que 700 ans. Sa précision est de plus de 80%. Son original est conservé à l\'Institut des sciences à Pékin. Vous pouvez connaître le sexe de votre bébé à naître. Tout ce qui est nécessaire - à savoir le mois exact de concevoir un enfant (ce qui est le problème principal). Peu de femmes savent que le jour exact de l\'ovulation, en particulier ceux qui ont un cycle menstruel n\'est pas régulier. Attention, essayez de vous souvenir de la date exacte, car il aura une incidence sur le résultat.";
+
+/* Rating Dialog */
+"thankyourate" = "Merci que avez voté  pour nous";
+"thank_one" = "5 étoiles";
+"thank_three" = "D\'autres fois";
+
+/* Blood Type Texts */
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Mère  âge au moment de la conception";
+"momBloodText" = "Père âge au moment de la conception";
+"blood_about1" = "Précision de 50 pour cent.";
+"blood_about" = "La méthode permet déterminer le sexe du bébé par le groupe sanguin des parents";
+
+/* Share Text */
+"share_text" = "#LaCalculDuSexeDeLenfant. Mon résultat ";
+"share_title" = "Mon résultat";
+
+/* Progrees Text */
+"progress_text" = "Calcul";
+
+"jan" = "Janvier";
+"feb" = "Février";
+"mar" = "Mars";
+"apr" = "Avril";
+"may" = "Mai";
+"jun" = "Juin";
+"jul" = "Juillet";
+"aug" = "Août";
+"sep" = "Septembre";
+"okt" = "Octobre";
+"nov" = "Novembre";
+"des" = "Décembre";
+
+"" = "";

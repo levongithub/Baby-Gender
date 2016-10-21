@@ -1,0 +1,102 @@
+
+/* Main Menu */
+
+"firstMain" = "Chino \nMétodo";
+"secondMain" = "Blood \nModernize \nMétodo";
+"more_methods" = "Other Métodos";
+"app_name" = "Bebé Sexo Predicción";
+"text_title" = "Bebé \nSexo \nPredicción";
+/* General */
+"more_apps" = "Más aplicaciones";
+"begin" = "Comienzo Predicción";
+"buttonInfoText" = "Ejemplo";
+"result_boy" = "Niño";
+"result_girl" = "Niña";
+"more_methods_toast" = "Pronto";
+"what_is_it" = "¿Qué es eso?";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "Acerca de la prueba";
+"menu_item_3" = "Danos tu opinión";
+"menu_item_1" = "Danos 5 estrellas";
+"menu_item_4" = "Cuota";
+"menu_item_5" = "Síguenos en Twitter";
+"menu_item_6" = "Plus nos Google+";
+"menu_item_7" = "Como Facebook";
+"menu_item_8" = "Como Vkontakte";
+
+/* Rating Dialog */
+
+"thankyourate" = "Gracias por rating";
+"thank_one" = "5 estrellas";
+"thank_three" = "Próxima Tiempo";
+
+/* Question Dialog */
+
+"question" = "Es la predicción de la derecha";
+"yes" = "Sí";
+"no" = "No";
+"dontknow" = "No lo sé";
+"try_again" = "Ajuste otras fechas";
+"try_again_blood" = "Ajuste otros tipos";
+
+/* Sure Dialog */
+
+"text_sure" = "Asegúrese de que las fechas introducidas tienen razón!";
+"title_sure" = "Esté atento";
+
+/* Subscribe */
+/* Add to other !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+"sub_title" = "Consejos para la embarazada";
+"sub_dialog_title" = "Suscríbete para recibir noticias";
+"edit_mail_hint" = "Ingrese su correo electrónico aquí";
+"edit_age_hint" = "Ingrese su edad aquí";
+"sub_dialog_button" = "Suscríbete";
+
+/* Chinese Texts */
+
+"mom_age" = "Su edad en la concepción";
+"mom_month" = "Mes concepción del bebé";
+"baby_conception" = "Concepción Mes";
+"chinese_infoText1" = "It is age when baby was concept for example , baby concetion month is may and you must enter your age at may.";
+"chinese_infoText2" = "Introduzca meses concetpion bebé";
+"china_about" = "The Chino Gender Calendar, also known as the Chino Birth Gender Chart, is considered one of the oldest methods for predicting the gender of an unborn baby. It is also one of the simplest, where the only necessary information is the mother\'s age at conception along with month of conception.To the rationally minded, such predictions may seem absurd, but the question is: do we really understand the subtle operations of nature and the universe? ";
+
+"china_about1" = "By following our instructions you will currently achieve an accuracy of about 75% (i.e. the chance is 3 out of 4 that you will get the gender you want). The figure is nowhere near 100%, but is based on systematic research rather than rumors and speculations. Our objective is to improve the calendar, mainly by collecting and analyzing prediction data from around the world. You can join our effort by testing the calendar on known births in your family and among friends and taking part in our survey.";
+
+/* Blood Type Texts */
+
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Papá edad en la concepción";
+"momBloodText" = "Mamá edad en la concepción";
+"blood_about" = "This Método predict baby gender by parent\'s blood type";
+"blood_about1" = "Precisión de 50 por ciento";
+
+/* Share Texts */
+
+"share_text" = "#BebéSexoPredicción Mi resultado de la predicción es  ";
+"share_title" = "Mi resultado de la predicción es  ";
+
+/* Progrees Text */
+"progress_text" = "Predicción";
+
+"jan" = "Enero";
+"feb" = "Febrero";
+"mar" = "Marzo";
+"apr" = "Abril";
+"may" = "Mayo";
+"jun" = "Junio";
+"jul" = "Julio";
+"aug" = "Agosto";
+"sep" = "Septiembre";
+"okt" = "Octubre";
+"nov" = "Noviembre";
+"des" = "Diciembre";
+
+"" = "";
+

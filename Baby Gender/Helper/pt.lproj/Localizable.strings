@@ -1,0 +1,100 @@
+
+/* Main Menu */
+"firstMain" = "Chinês\n método";
+"secondMain" = "Sanguíneo \natualização \nmétodo";
+"more_methods" = "Dicas para você";
+"app_name" = "Predição Sexo do bebê";
+"text_title" = "Predição \nSexo \ndo bebê";
+/* General */
+"more_apps" = "Mais Apps";
+"begin" = "Começo predição";
+"buttonInfoText" = "Exemplos";
+"result_boy" = "Menino";
+"result_girl" = "Menina";
+"more_methods_toast" = "Em breve";
+"what_is_it" = "O que é isso?";
+
+/* Overflow Menu Items */
+
+"menu_item_2" = "sobre o Teste";
+"menu_item_3" = "Enviar comentários";
+"menu_item_1" = "Dê-nos 5 estrelas";
+"menu_item_4" = "Ação";
+"menu_item_5" = "Follow us Twitter";
+"menu_item_6" = "Plus us Google+";
+"menu_item_7" = "Like us on Facebook";
+"menu_item_8" = "Like us on Vkontakte";
+
+/* Rating Dialog */
+
+"thankyourate" = "Obrigado por votar nos";
+"thank_one" = "5 estrelas";
+"thank_three" = "Próxima vez";
+
+/* Question Dialog */
+
+"question" = "É certo previsão";
+"yes" = "sim";
+"no" = "não";
+"dontknow" = "Não sei";
+"try_again" = "Definir outras datas";
+"try_again_blood" = "Definir outras tipos";
+
+/* Sure Dialog */
+
+"text_sure" = "Certifique-se de que as datas inseridas estão certos!";
+"title_sure" = "Esteja atento";
+
+/* Subscribe */
+/* Add to other !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+"sub_title" = "Dicas para grávidas";
+"sub_dialog_title" = "Assine para receber notícias";
+"edit_mail_hint" = "Digite seu e-mail aqui";
+"edit_age_hint" = "Digite seu e-idade aqui";
+"sub_dialog_button" = "Subscrever";
+
+/* Chinese Texts */
+
+"mom_age" = "Sua idade no momento da concepção";
+"mom_month" = "Mês concepção do bebê";
+"baby_conception" = "Conceição Mês";
+"chinese_infoText1" = "É a idade em que o bebê estava conceito, por exemplo, o mês de concepção do bebê é maio e você deve digitar a sua idade em maio.";
+"chinese_infoText2" = "Digite o mês de concepção do bebê";
+"china_about" = "O Calendário Sexo chinês, também conhecido como o chinês Nascimento Sexo Chart, é considerado um dos métodos mais antigos para prever o sexo de um feto. É também um dos mais simples, onde a única informação necessária é a idade da mãe no momento da concepção, juntamente com mês de conception.To os racionalmente ocupados, tais previsões podem parecer absurdo, mas a pergunta é: será que realmente compreender o sutil operações da natureza e do universo? ";
+"china_about1" = "Ao seguir as instruções que você vai conseguir actualmente uma precisão de cerca de 75% (ou seja, a chance é 3 de 4 que você vai ter o sexo que você quer). A figura não está nem perto de 100%, mas é baseado em uma pesquisa sistemática, em vez de boatos e especulações. Nosso objetivo é melhorar o calendário, principalmente através da coleta e análise de dados de previsão de todo o mundo. Você pode participar de nosso esforço, testando o calendário em nascimentos conhecidos em sua família e entre amigos e participar de nossa pesquisa.";
+
+/* Blood Type Texts */
+
+"first_type" = "A";
+"second_type" = "B";
+"third_type" = "AB";
+"fourt_type" = "O";
+"dadBloodText" = "Digite pai idade no momento da concepção";
+"momBloodText" = "Digite mãe idade no momento da concepção";
+"blood_about" = "Este predizer sexo do bebê por tipo de pais de sangue";
+"blood_about1" = "Precisão cerca de 50 por cento";
+
+/* Share Texts */
+
+"share_text" = "#PrediçãoSexodobebê Minha previsão é resultado  ";
+"share_title" = "Minha previsão é resultado  ";
+
+/* Progrees Text */
+"progress_text" = "Predição";
+
+"jan" = "Janeiro";
+"feb" = "Fevereiro";
+"mar" = "Março";
+"apr" = "Abril";
+"may" = "Maio";
+"jun" = "Junho";
+"jul" = "Julho";
+"aug" = "Agosto";
+"sep" = "Setembro";
+"okt" = "Outubro";
+"nov" = "Novembro";
+"des" = "Dezembro";
+
+"" = "";
+

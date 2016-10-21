@@ -15,7 +15,7 @@ class MainViewController: UIViewController {
         // Request test ads on devices you specify. Your test device ID is printed to the console when
         // an ad request is made.
         //request.testDevices = [ kGADSimulatorID, "2077ef9a63d2b398840261c8221a0c9b" ]
-        //interstitial.load(request)
+        interstitial.load(request)
     }
     
     override func viewDidLoad() {
